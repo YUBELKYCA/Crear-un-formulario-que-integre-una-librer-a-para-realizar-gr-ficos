@@ -1,0 +1,35 @@
+canvas {
+    height: 300px;
+    width: 100%;
+    max-width: 100%;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+    margin-top: 70px;
+}
+
+header {
+    background-color: #7a5c3c;
+    color: #ffffff;
+    text-align: center;
+    padding: 1px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    font-size: 10px;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+}
